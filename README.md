@@ -16,6 +16,9 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 </div>
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yur1melo" target="_blank">
     <img
