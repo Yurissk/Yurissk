@@ -1,10 +1,12 @@
 ## Yuri Melo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurimelo)
 
-<div>
-  <a href="https://github.com/yurissk">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=yurissk&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurissk&layout=compact&langs-count=16&theme=gruvbox"/>
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yurissk&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurissk&layout=compact&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=maroongold"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
