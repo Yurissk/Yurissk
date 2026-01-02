@@ -3,7 +3,7 @@
 <div align="center">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=maroongold"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
