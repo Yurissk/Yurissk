@@ -1,8 +1,6 @@
 ## Yuri Melo
 
 <div align="center">
-  <br>
-  <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=dark"/>
 </div>
 
@@ -15,16 +13,13 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 </div>
-
 <br>
-<br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yur1melo" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-yur1melo-0A66C2?style=flat&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-      style="border-radius: 8px;"
+      style="border-radius: 15px;"
     />
   </a>
 </p>
