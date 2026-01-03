@@ -15,7 +15,7 @@
 </div>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yur1melo" target="_blank">
+  <a href="https://www.linkedin.com/in/yur1melo" target="blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-yur1melo-0A66C2?style=flat&logo=linkedin&logoColor=white"
       alt="LinkedIn"
