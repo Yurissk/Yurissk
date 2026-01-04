@@ -1,7 +1,7 @@
 ## Yuri Melo
 
 <div align="center">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=dark"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=2077"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
