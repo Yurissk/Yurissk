@@ -1,4 +1,4 @@
-## Yuri Melo
+
 <table>
   <tr>
     <td>
