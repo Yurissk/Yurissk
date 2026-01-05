@@ -10,24 +10,14 @@
   </tr>
 </table>
 
-<div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs" width="40">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-</div>
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yur1melo" target="blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-yur1melo-0A66C2?style=flat&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      style="border-radius: 15px;"
-    />
-  </a>
+### Languages:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,html,css" />
+</p>
+
+### Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
 </p>
 
 <picture>
