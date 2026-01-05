@@ -1,8 +1,14 @@
 ## Yuri Melo
-
-<div align="center">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=2077"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurissk&theme=2077" alt="Profile details badge"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yurissk&theme=2077" alt="General stats badge"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=cs" width="40">
