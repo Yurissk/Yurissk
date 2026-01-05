@@ -9,6 +9,18 @@
     </td>
   </tr>
 </table>
+<p align="left">
+  <a href="mailto:yurimellok869@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1f1b3a?style=for-the-badge&logo=gmail&logoColor=FFD700" />
+  </a>
+  <a href="https://www.instagram.com/yuridmello/">
+    <img src="https://img.shields.io/badge/Instagram-1f1b3a?style=for-the-badge&logo=instagram&logoColor=FFD700" />
+  </a>
+  <a href="https://www.linkedin.com/in/yur1melo/">
+    <img src="https://img.shields.io/badge/LinkedIn-1f1b3a?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
+  </a>
+</p>
+
 
 ### Languages:
 <p align="left">
